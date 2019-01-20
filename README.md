@@ -1,4 +1,3 @@
- Project Two Sprint Wrap-up
 
 ## *Congratulations on making it through Project Three!*
 
